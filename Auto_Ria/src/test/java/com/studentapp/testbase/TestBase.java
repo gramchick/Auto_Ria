@@ -8,6 +8,6 @@ public class TestBase {
 
 	@BeforeClass
 	public static void init(){
-		RestAssured.baseURI = "https://www.mixcloud.com";
+		RestAssured.baseURI = "https://auto.ria.com/uk/";
 	}
 }
